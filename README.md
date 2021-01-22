@@ -10,7 +10,7 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 ### Main Overview
 The dataset file included with this product is provided in CSV format. README files are also included to offer context on data fields used throughout the dataset files. The specific files included with each revisions may vary.
 
-This dataset contains a historical time-series data of Board of Governors of the Federal Reserve System (US), Capacity Utilization: Total Index [TCU] starting from '1967-01-01'. The unit of the data is Percent of Capacity and it is seasonally adjusted.
+This dataset contains a historical time-series data of Board of Governors of the Federal Reserve System (US), Capacity Utilization: Total Index [TCU] starting from '1967-01-01'. This product is seasonally adjusted.
 
 ### Data Source
 This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED).
