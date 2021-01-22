@@ -13,7 +13,13 @@ The dataset file included with this product is provided in CSV format. README fi
 This dataset contains a historical time-series data of Board of Governors of the Federal Reserve System (US), Capacity Utilization: Total Index [TCU] starting from '1967-01-01'. The unit of the data is Percent of Capacity and it is seasonally adjusted.
 
 ### Data Source
-This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED). 
+This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED).
+
+The included dataset contains the following columns:
+
+`date, TCU`
+
+The `TCU` column represents the percentage of capacity used from the total capacity available at the time of the corresponding `date`.  
 
 ### More Information
 - Source: 
